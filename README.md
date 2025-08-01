@@ -1,8 +1,7 @@
-<img src="https://wallpapers.com/images/hd/solid-pink-background-2obrm4zdhnpqrypd.jpg" width="100%" />
-
-<h1 align="center">🌸 Nicole Chaves 🌸</h1>
-<h3 align="center">💻 Developer | Lisbon 🇵🇹</h3>
-
+<!-- Banner personalizado com fundo rosa e nome -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/NicoleBanner.png" alt="Nicole Chaves Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Nicole Chaves</h1>
 <h3 align="center">A passionate frontend developer from Lisbon</h3>
 
