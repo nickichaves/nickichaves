@@ -2,7 +2,6 @@
 <p align="center">
   <img src="./bannerGit.jpg" alt="Nicole Chaves Banner" width="100%" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Nicole Chaves</h1>
 <h3 align="center">A passionate developer from Lisbon</h3>
 
