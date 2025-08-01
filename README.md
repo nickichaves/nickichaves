@@ -3,7 +3,7 @@
   <img src="./bannerGit.jpg" alt="Nicole Chaves Banner" width="100%" />
 </p>
 <h1 align="center">Hello, I'm Nicole Chaves</h1>
-<h3 align="center">A passionate frontend developer from Lisbon</h3>
+<h3 align="center">A passionate developer from Lisbon</h3>
 
 - 🔭 I’m currently working on **MEO**
 
