@@ -11,9 +11,9 @@
 
 - 👯 I’m open to collaborate on **multiple projects**
 
-- 📫 How to reach me **nicolechaves45@gmail.com**
+- 📫 How to reach me: **nicolechaves45@gmail.com**
 
-- ⚡ Fun fact **I cook very well**
+- ⚡ Fun fact: **I cook very well**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
