@@ -1,5 +1,7 @@
+<img src="https://wallpapers.com/images/hd/solid-pink-background-2obrm4zdhnpqrypd.jpg" width="100%" />
+
 <h1 align="center">🌸 Nicole Chaves 🌸</h1>
-<h3 align="center">💻 Frontend Developer | Lisbon 🇵🇹</h3>
+<h3 align="center">💻 Developer | Lisbon 🇵🇹</h3>
 
 <h1 align="center">Hi 👋, I'm Nicole Chaves</h1>
 <h3 align="center">A passionate frontend developer from Lisbon</h3>
