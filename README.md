@@ -1,7 +1,8 @@
-<!-- Banner personalizado com fundo rosa e nome -->
+<!-- Banner personalizado com nome -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/NicoleBanner.png" alt="Nicole Chaves Banner" width="100%" />
+  <img src="./bannerGit.jpg" alt="Nicole Chaves Banner" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Nicole Chaves</h1>
 <h3 align="center">A passionate frontend developer from Lisbon</h3>
 
