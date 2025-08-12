@@ -1,26 +1,23 @@
+<!-- Banner personalizado com nome -->
 <p align="center">
-  <svg width="100%" height="200">
-    <defs>
-      <!-- Gradiente animado -->
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff69b4">
-          <animate attributeName="stop-color" values="#ff69b4; #ffb6c1; #ff69b4" dur="5s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#ffb6c1">
-          <animate attributeName="stop-color" values="#ffb6c1; #ff69b4; #ffb6c1" dur="5s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
+  <img src="./bannerGit.gif" alt="Nicole Chaves Banner" width="100%" />
+</p>
+<h1 align="center">Hello, I'm Nicole Chaves</h1>
+<h3 align="center">A passionate developer from Lisbon</h3>
 
-    <!-- Retângulo de fundo -->
-    <rect width="100%" height="200" fill="url(#grad)" />
+- 🔭 I’m currently working on **MEO**
 
-    <!-- Texto centralizado -->
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white">
-         Nicole Chaves
-    </text>
-  </svg>
+- 🌱 I’m currently learning **multiple programming languages**
+
+- 👯 I’m open to collaborate on **multiple projects**
+
+- 📫 How to reach me: **nicolechaves45@gmail.com**
+
+- ⚡ Fun fact: **I cook very well**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolechaves22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolechaves22/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
