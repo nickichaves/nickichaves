@@ -1,9 +1,22 @@
 <!-- Banner personalizado com nome -->
 <p align="center">
-  <img src="./bannerGit.gif" alt="Nicole Chaves Banner" width="100%" />
+  <svg width="100%" height="200">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff69b4">
+          <animate attributeName="stop-color" values="#ff69b4; #ffb6c1; #ff69b4" dur="5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#ffb6c1">
+          <animate attributeName="stop-color" values="#ffb6c1; #ff69b4; #ffb6c1" dur="5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="200" fill="url(#grad)">
+      <animate attributeName="x" from="-100" to="100" dur="10s" repeatCount="indefinite" />
+    </rect>
+  </svg>
 </p>
-<h1 align="center">Hello, I'm Nicole Chaves</h1>
-<h3 align="center">A passionate developer from Lisbon</h3>
+
 
 - 🔭 I’m currently working on **MEO**
 
