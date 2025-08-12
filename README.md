@@ -1,6 +1,6 @@
 <!-- Banner personalizado com nome -->
 <p align="center">
-  <img src="./bannerGit.gif" alt="Nicole Chaves Banner" width="100%" />
+  <img src="./bannerGit2.gif" alt="Nicole Chaves Banner" width="100%" />
 </p>
 <h1 align="center">Hello, I'm Nicole Chaves</h1>
 <h3 align="center">A passionate developer from Lisbon</h3>
